@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arman Hosseini!
 Welcome to my GitHub! I'm a **Machine Learning Engineer** and **Data Scientist** with a strong passion for **NLP** and **generative AI**. I thrive on building and applying machine learning models to solve real-world problems, with experience across a wide range of industries.
 ## 🧠 Projects & Research
-- **Author Identification in Persian Literature** (NLP, BERT)
+- [**Author Identification in Persian Literature** (NLP, BERT)](https://github.com/HosseiniArman/Author-Identification-with-BERT)
   - Developed an **author identification system** using **BERT models** fine-tuned on a dataset of Persian literature.
   - Utilized **5-fold cross-validation**, accuracy, F1 score, precision, and recall to evaluate performance.
   - Conducted comprehensive experiments on the impact of **learning rates**, **stopwords**, and **document length**. 
