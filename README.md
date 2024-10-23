@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a **Machine Learning Engineer** and **Data Scientist**
   - Developed an **author identification system** using **BERT models** fine-tuned on a dataset of Persian literature.
   - Utilized **5-fold cross-validation**, accuracy, F1 score, precision, and recall to evaluate performance.
   - Conducted comprehensive experiments on the impact of **learning rates**, **stopwords**, and **document length**. 
-  - [Read More](https://github.com/HosseiniArman/Author-Identification-with-BERT)
 
 - **Enhancing Text Classification in Information Retrieval** (NLP, SVM, Word Embeddings)
   - Implemented **TF-IDF vectorization**, **Naive Bayes**, and **SVM** classifiers combined with **Word2Vec**, **GloVe**, and **FastText** embeddings.
