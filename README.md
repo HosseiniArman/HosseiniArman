@@ -6,11 +6,11 @@ Welcome to my GitHub! I'm a **Machine Learning Engineer** and **Data Scientist**
   - Utilized **5-fold cross-validation**, accuracy, F1 score, precision, and recall to evaluate performance.
   - Conducted comprehensive experiments on the impact of **learning rates**, **stopwords**, and **document length**. 
 
-- **Enhancing Text Classification in Information Retrieval** (NLP, SVM, Word Embeddings)
+- [**Enhancing Text Classification in Information Retrieval** (NLP, SVM, Word Embeddings)](link-to-project-2)
   - Implemented **TF-IDF vectorization**, **Naive Bayes**, and **SVM** classifiers combined with **Word2Vec**, **GloVe**, and **FastText** embeddings.
   - Integrated **Latent Semantic Analysis (LSA)** to improve text classification in information retrieval.
   - Compared performance metrics such as accuracy, precision, and F1-score across different techniques.
-  - [Read More](link-to-project-2)
+  
 
 - **Generative AI Projects**:
   - Experience in building **text generation** models for diverse applications using **GPT-based architectures**.
