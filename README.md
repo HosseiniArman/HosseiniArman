@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Machine Learning Engineer** and **Data Scientist**
   - Utilized **5-fold cross-validation**, accuracy, F1 score, precision, and recall to evaluate performance.
   - Conducted comprehensive experiments on the impact of **learning rates**, **stopwords**, and **document length**. 
 
-- [**Enhancing Text Classification in Information Retrieval** (NLP, SVM, Word Embeddings)](link-to-project-2)
+- [**Enhancing Text Classification in Information Retrieval** (NLP, SVM, Word Embeddings)](https://github.com/HosseiniArman/Comprehensive-Text-Classification-with-TF-IDF-Naive-Bayes-Word-Embeddings-LSA-and-SVM/tree/main)
   - Implemented **TF-IDF vectorization**, **Naive Bayes**, and **SVM** classifiers combined with **Word2Vec**, **GloVe**, and **FastText** embeddings.
   - Integrated **Latent Semantic Analysis (LSA)** to improve text classification in information retrieval.
   - Compared performance metrics such as accuracy, precision, and F1-score across different techniques.
