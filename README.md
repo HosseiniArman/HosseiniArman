@@ -1,43 +1,29 @@
-# 👋 Hi, I'm Arman Hosseini!
-Welcome to my GitHub! I'm a **Machine Learning Engineer** and **Data Scientist** with a strong passion for **NLP** and **generative AI**. I thrive on building and applying machine learning models to solve real-world problems, with experience across a wide range of industries.
-## 🧠 Projects & Research
-- [**Author Identification in Persian Literature** (NLP, BERT)](https://github.com/HosseiniArman/Author-Identification-with-BERT)
-  - Developed an **author identification system** using **BERT models** fine-tuned on a dataset of Persian literature.
-  - Utilized **5-fold cross-validation**, accuracy, F1 score, precision, and recall to evaluate performance.
-  - Conducted comprehensive experiments on the impact of **learning rates**, **stopwords**, and **document length**. 
+# 👋 Hello, I’m Arman Hosseini
 
-- [**Enhancing Text Classification in Information Retrieval** (NLP, SVM, Word Embeddings)](https://github.com/HosseiniArman/Comprehensive-Text-Classification-with-TF-IDF-Naive-Bayes-Word-Embeddings-LSA-and-SVM/tree/main)
-  - Implemented **TF-IDF vectorization**, **Naive Bayes**, and **SVM** classifiers combined with **Word2Vec**, **GloVe**, and **FastText** embeddings.
-  - Integrated **Latent Semantic Analysis (LSA)** to improve text classification in information retrieval.
-  - Compared performance metrics such as accuracy, precision, and F1-score across different techniques.
-  
+**Machine Learning Engineer | Data Scientist**  
+*Leveraging AI to drive meaningful impact across diverse industries.*
 
-- **Generative AI Projects**:
-  - Experience in building **text generation** models for diverse applications using **GPT-based architectures**.
-  - Applied generative AI models for text summarization, content generation, and creative writing tasks.
- 
-- **Automated Motion Analysis for Physical Therapy**:
-  - Used signal processing techniques and computer vision to improve diagnostic and therapeutic processes.
- 
-- **Gamification in Rehabilitation**:
-  - Developed applications to enhance patient engagement and recovery through data-driven insights.
- 
-- **Markerless Motion Analysis**:
-  - Implemented computer vision algorithms for real-time motion classification in therapy videos.
- 
-## 📚 Skills & Tools
-- **Machine Learning**: Neural Networks, Deep Learning, Predictive Modeling, Time Series Analysis, Reinforcement Learning
-- **NLP**: BERT, GPT, Text Classification, Sentiment Analysis, Tokenization, Language Modeling
-- **Programming**: Python, SQL, R, MATLAB
-- **Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn, Hugging Face,
-- **Cloud Platforms**: AWS, Azure
-- **Visualization**: Matplotlib, Seaborn, Plotly, Tableau
+---
 
-## 💡 What I'm Working On
-I'm constantly exploring the latest advancements in **machine learning** and **AI** technologies. Whether it's **fine-tuning language models** or developing **real-time NLP applications**, I'm always looking for opportunities to apply my skills to innovative projects across various sectors.
+### 🚀 My Journey in AI
 
-## 📫 Get in Touch
-- **LinkedIn**: [Arman Hosseini](https://www.linkedin.com/in/arman-hosseini95/)
+As a Machine Learning Engineer and Data Scientist, I am passionate about using AI to solve complex challenges and create positive outcomes across various fields. My background includes impactful projects in **healthcare**—where I’ve worked on optimizing patient outcomes and enhancing data-driven decision-making. However, my interest in AI extends to any domain where data insights and machine learning can drive innovation, from **natural language processing** and **generative AI** to time-series analysis and beyond.
+
+### 🔧 Areas of Expertise
+- **Natural Language Processing (NLP)**: Text Classification, NER, Transformers
+- **Deep Learning & Neural Networks**: CNNs, RNNs, Autoencoders, GANs
+- **Generative AI**: Neural Style Transfer, Sequence Models, Text Generation
+- **Time-Series Analysis**: ARIMA, LSTM, Signal Processing
+- **Cloud & Distributed Computing**: AWS, GCP, Docker, Kubernetes
+
+### 🤝 Let’s Connect
+
+I’m always excited about new opportunities, collaborations, or connecting with others passionate about AI’s potential to transform industries. If you have an idea, role, or project where my skills could contribute, feel free to reach out!
+
+**Connect with me**  
+- [LinkedIn](https://www.linkedin.com/in/arman-hosseini95)
+- [Email](mailto:shoss24@uwo.ca)
+
 
 
 <!--
