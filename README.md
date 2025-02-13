@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Arman Hosseini
 
-**Machine Learning Engineer | Data Scientist**  
+**Machine Learning Researcher | Data Scientist**  
 *Leveraging AI to drive meaningful impact across diverse industries.*
 
 ---
